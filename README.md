@@ -40,7 +40,7 @@ Explore various examples of usage at https://www.mohammedrishad.com/gradient-col
 
 
 * **Highly customizable:**
-  Whether you need to change the color picker's size/colors or attach a function to the onchange event, jscolor can be fine-tuned to perfectly suit your web project.
+  Whether you need to change the color picker's size/colors or attach a function to the onchange event, lgcolor can be fine-tuned to perfectly suit your web project.
 
 
 ## Website

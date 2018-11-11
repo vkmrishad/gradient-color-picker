@@ -2,6 +2,7 @@
 
 lgcolor is a liner gradient color picker component that aims to be super easy both for developers to install and for the end users to use.
 
+![gradient-color-picker](https://raw.githubusercontent.com/vkmrishad/gradient-color-picker/master/screenshot.png)
 
 ## Installation in two lines
 

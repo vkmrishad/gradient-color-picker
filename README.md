@@ -16,7 +16,7 @@ lgcolor is a liner gradient color picker component that aims to be super easy bo
 ...
 ...
 
-<script src="jscolor.js"></script>
+<script src="assets/js/lgcolor.js"></script>
 </body>
 
 Field : <input class="lgcolor" value="linear-gradient(to bottom, #00f260 0%, #0575e6 100%)">

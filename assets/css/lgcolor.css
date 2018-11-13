@@ -138,7 +138,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .lg-section,.lg-code{margin-top:16px!important;margin-bottom:16px!important}
 .lg-margin{margin:16px!important}.lg-margin-top{margin-top:16px!important}.lg-margin-bottom{margin-bottom:16px!important}
 .lg-margin-left{margin-left:16px!important}.lg-margin-right{margin-right:16px!important}
-.lg-padding-small{padding:4px 8px!important}.lg-padding{padding:8px 16px!important}.lg-padding-large{padding:40px 24px!important;width: 600px;margin: auto;}
+.lg-padding-small{padding:4px 8px!important}.lg-padding{padding:8px 16px!important}.lg-padding-large{padding:24px!important;width: 500px;margin: auto;border-radius: 3px;}
 .lg-padding-16{padding-top:16px!important;padding-bottom:16px!important}.lg-padding-24{padding-top:24px!important;padding-bottom:24px!important}
 .lg-padding-32{padding-top:32px!important;padding-bottom:32px!important}.lg-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .lg-padding-64{padding-top:64px!important;padding-bottom:64px!important}

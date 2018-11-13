@@ -27,7 +27,7 @@ Field : <input class="lgcolor" value="linear-gradient(to bottom, #00f260 0%, #05
 
 ## Usage examples
 
-Explore various examples of usage at https://www.mohammedrishad.com/gradient-color-picker/
+Explore example at https://www.mohammedrishad.com/gradient-color-picker/
 
 ## Features
 

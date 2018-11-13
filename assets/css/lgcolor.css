@@ -138,7 +138,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .lg-section,.lg-code{margin-top:16px!important;margin-bottom:16px!important}
 .lg-margin{margin:16px!important}.lg-margin-top{margin-top:16px!important}.lg-margin-bottom{margin-bottom:16px!important}
 .lg-margin-left{margin-left:16px!important}.lg-margin-right{margin-right:16px!important}
-.lg-padding-small{padding:4px 8px!important}.lg-padding{padding:8px 16px!important}.lg-padding-large{padding:24px!important;width: 500px;margin: auto;border-radius: 3px;}
+.lg-padding-small{padding:4px 8px!important}.lg-padding{padding:8px 16px!important}.lg-padding-large{padding:24px!important;width: 490px;margin: auto;border-radius: 3px;}
 .lg-padding-16{padding-top:16px!important;padding-bottom:16px!important}.lg-padding-24{padding-top:24px!important;padding-bottom:24px!important}
 .lg-padding-32{padding-top:32px!important;padding-bottom:32px!important}.lg-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .lg-padding-64{padding-top:64px!important;padding-bottom:64px!important}
@@ -352,13 +352,16 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     background-color: rgba(0,0,0,0.4) !important;
 }
 button.lg-button {
-    background: #bbbbbb;
+    background: #ccc;
     border-radius: 5px;
     font-size: 14px;
     font-weight: 600;
     margin: 0px 10px;
     outline: none;
     padding: 8px 10px 5px 10px;
+}
+button.lg-button:hover {
+  background: #bbb;
 }
 .lg-col.m12.field-div .m1, .lg-col.m12.field-div .m2, .lg-col.m12.field-div .m4 {
     margin: 15px 0;

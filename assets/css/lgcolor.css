@@ -361,7 +361,7 @@ button.lg-button {
     padding: 8px 10px 5px 10px;
 }
 button.lg-button:hover {
-  background: #bbb;
+  background: #bbb !important;
 }
 .lg-col.m12.field-div .m1, .lg-col.m12.field-div .m2, .lg-col.m12.field-div .m4 {
     margin: 15px 0;

@@ -2,9 +2,9 @@
 
 # Liner Gradient Color Picker (lgcolor.js)
 
-lgcolor is a liner gradient color picker component that aims to be super easy both for developers to install and for the end users to use.
+lgcolor is a linear gradient color picker component that aims to be super easy both for developers to install and for the end users to use.
 
-![gradient-color-picker](https://raw.githubusercontent.com/vkmrishad/gradient-color-picker/master/screenshot.png)
+![gradient-color-picker](https://github.com/vkmrishad/gradient-color-picker/blob/master/screenshot.png?raw=true)
 
 ## Installation in two lines
 
